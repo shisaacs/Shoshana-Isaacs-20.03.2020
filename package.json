@@ -2,7 +2,7 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shisaacs.github.io/Shoshana-Isaacs-22032020",
+  "homepage": "https://shisaacs.github.io/Shoshana-Isaacs-20.03.2020",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
