@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Shoshana-Isaacs-20.03.2020/precache-manifest.2ac5f5d202d04ca3e8fac0cfa00bb482.js"
+  "/Shoshana-Isaacs-20.03.2020/precache-manifest.d9b18dedc0e0a731a0042a87c223acc0.js"
 );
 
 self.addEventListener('message', (event) => {

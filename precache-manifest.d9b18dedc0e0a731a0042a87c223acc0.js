@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "042f2a979b00a19c3dd1c05fc12e679e",
+    "revision": "c0d67fd3a9f129fda3a1e8382fb5c15d",
     "url": "/Shoshana-Isaacs-20.03.2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shoshana-Isaacs-20.03.2020/static/css/2.dec3253d.chunk.css"
   },
   {
-    "revision": "a8296631659934390a84",
+    "revision": "f97d4cb2c92a6da407f0",
     "url": "/Shoshana-Isaacs-20.03.2020/static/css/main.75b13ee4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shoshana-Isaacs-20.03.2020/static/js/2.3d6c9979.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8296631659934390a84",
-    "url": "/Shoshana-Isaacs-20.03.2020/static/js/main.2d371bbd.chunk.js"
+    "revision": "f97d4cb2c92a6da407f0",
+    "url": "/Shoshana-Isaacs-20.03.2020/static/js/main.b4e4f5a6.chunk.js"
   },
   {
     "revision": "c67ab8e4cba1f6abd3b3",
